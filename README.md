@@ -2,4 +2,4 @@
 
 A fast-paced course for getting up to speed wit Git and GitHub.
 
-This is a mod from branch "awesome"!
+I am also working on this line!
