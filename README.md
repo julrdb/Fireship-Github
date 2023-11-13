@@ -22,7 +22,7 @@ This line is main branch.
   - [x] git checkout
   - [x] merge conflicts
   - [x] fork
-  - [ ] pull request 
+  - [x] pull request 
 - [ ] advanced
   - [ ] git reset
   - [ ] git revert
