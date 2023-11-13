@@ -17,7 +17,7 @@ This line is main branch.
   - [x] git merge
   - [x] git pull
   - [x] git clone
-- [ ] collaboration
+- [x] collaboration
   - [x] git branch
   - [x] git checkout
   - [x] merge conflicts
