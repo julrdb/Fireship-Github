@@ -24,9 +24,9 @@ This line is main branch.
   - [x] fork
   - [x] pull request 
 - [ ] advanced
-  - [ ] git reset
-  - [ ] git revert
-  - [ ] git commit --amend
+  - [x] git reset
+  - [x] git revert
+  - [x] git commit --amend
   - [ ] git stash
   - [ ] git rebase
   - [ ] squash
